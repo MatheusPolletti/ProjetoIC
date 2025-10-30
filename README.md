@@ -21,7 +21,3 @@ Os pacotes Python a seguir são essenciais e podem ser instalados via `pip`:
 
 * `opencv-python`
 * `mediapipe`
-
-### 🤝 Realização do Projeto
-
-Projeto realizado por **[Matheus Polletti]** com o apoio do orientador **[Henrique Dezani]**, realizado na Fatec Rio Preto.
